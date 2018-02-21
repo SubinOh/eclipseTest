@@ -4,5 +4,6 @@ public class HelloWorld {
 	public static void main(String[] args) {
 		System.out.println("Hello Git World!!!");
 		System.out.println("second branch에서 작업한 내용");
+		System.out.println("충돌테스트를 위한 테스트 2 == second");
 	}
 }
