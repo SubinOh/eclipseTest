@@ -2,7 +2,8 @@ package kr.co.test;
 
 public class SayHello {
 	public static void main(String[] args) {
-		System.out.println("¿ø°İÀúÀå¼Ò Å×½ºÆ®¸¦ À§ÇÑ ½Ç½ÀÀÔ´Ï´Ù");
-		System.out.println("Ãæµ¹Å×½ºÆ®¸¦ À§ÇÑ ·ÎÄÃ½Ç½ÀÀÔ´Ï´Ù");
+
+		System.out.println("ì›ê²©ì €ì¥ì†Œ í…ŒìŠ¤íŠ¸ë¥¼ ìœ„í•œ ì‹¤ìŠµì…ë‹ˆë‹¤");
+		System.out.println("ì¶©ëŒí…ŒìŠ¤íŠ¸ë¥¼ ìœ„í•œ ë¡œì»¬ì‹¤ìŠµì…ë‹ˆë‹¤");
 	}
 }
